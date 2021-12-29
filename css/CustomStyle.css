@@ -1,8 +1,3 @@
-body { padding-top: 30px; 
-}
-@media screen and (max-width: 768px) {
-    body { padding-top: 0px; }
-}
 nav{
     border-top: 4px solid #004A98;
     border-bottom: 1px solid rgb(221, 217, 217);
